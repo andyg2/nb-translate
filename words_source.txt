@@ -1,0 +1,1165 @@
+ENGLISH
+Admin
+Address
+Airbnb active
+Airbnb Channel
+Airbnb import active
+Airbnb import not active
+Action
+Actions
+Active
+Export tools
+Alternative MyPOS gateway
+apartment
+Apartments
+Auto rates
+Automation
+Client Database
+Free hotel management system
+Free property management software
+Free property management system
+Free
+Any special requests or comments
+Card nr
+Fast status change
+CC
+Check in
+Check in time
+Check out
+Check our features
+All over the World
+Guest price
+City price map
+Expense By Month
+Expense by type
+Clean
+Cleanliness
+Heared
+Cvv
+days
+Due date
+CARD EXPIRY DATE
+Dates
+Dates changed, do you want to save & update availability
+Demo account
+Card details
+Booking details
+Company details
+Detailed accounting calendar
+Direct bookings
+Direct booking site
+Direct link
+Direct discount
+Children
+Daily
+Add company details
+Adding iframe to your page
+Add new service
+Add listing
+Add accounting
+Add booking
+Add only for foreigner
+Add only for local
+Add only for certain guest quantity
+Add always
+Add task
+Extra rates
+Additional services do not exist
+Additional services exist
+Additional managers do not exist
+Additional managers exist
+Additional
+Arrivals
+Arrival
+Availability rates calendar
+Availability
+Availability & rates
+Country
+Debtor
+Approval email directly after booking
+Emails
+Email
+Email
+Email / SMS
+Email info
+Emails settings
+Emails signature
+Expedia Channel
+Filter
+Focus
+Annually
+Guest
+Guests
+Done
+Done ready to go
+Done, ready to go
+City
+Charts
+Error
+Errors
+Group
+Hostel
+Hostname
+Hotel
+5 Star Hotels
+Hotels
+hotels
+Have an idea
+Name
+Guest Name
+Location info
+Fill in your property data
+Fill your contact data
+Created
+Exception
+Exceptions
+Exceptional
+Export 
+Cheapest hotels
+Cheap calls
+Languages
+Language
+Calendar
+Availability calendar
+Availability calendar quantity set
+Detailed calendar
+Booking Calendar
+Bookings calendar
+Camera activated
+Camera not activated
+Channel
+Booking Channel
+Channels
+ChannelCalendar
+Card number
+Availability calendar quantity do not exist
+Comment
+Configuration
+Competitors
+Competition
+Contact
+Contract
+Contact us
+Coordinates
+Copy
+Create
+Create new accounting
+Create new task
+Create new booking
+Create your listings
+Create video
+beds
+Beds
+Guest House
+bath
+Bathrooms
+Buy 1H of remote support
+Coupon
+Checklist
+Location
+can be found here
+Best
+Best hotels
+Cheapest
+Largest
+Largest hotels
+Approval text
+Advanced payments
+Advanced menu
+Advanced calendar
+Left
+Back
+DASHBOARD
+Few Steps
+Don't have an account
+Fabulous
+Holder
+Name on card
+About apartment
+About hotel
+About client
+About
+About order
+About our product
+About this location
+About this listing
+About booking
+About balance
+About company
+About service
+Delete
+Delete & open availability
+Cleaned
+From
+Choose property
+Checked
+Answer
+Check-out
+Checkout
+Checked out
+Checked-Out
+Approved
+Comma separated
+Advertising
+Description
+Description
+Cancelled email custom text
+Cancelled
+Check help videos
+Departures
+Departure
+Departure
+Help
+Help tasks
+Discounts
+Custom Range
+Channels setup
+Confirmation
+Background
+By Check-In
+Download
+Income
+Income by channel
+Income by manager
+Income by room
+Income by type
+Income Expense
+Agree to terms and conditions
+I accept the booking
+Agreement & Submit
+Check-in
+Checked in
+Checked-In
+Approval email custom text
+Discount code
+Find your answers here
+City average price
+First login password
+Full name
+Bill to
+Accounting calendar
+Accounting
+Accounting by type
+Date Range
+Bookable rooms
+Available rooms
+Availability days
+Available
+Chat
+Booking
+Booking active
+Booking will be deleted forever
+Bookings do not exist
+Booking Approved
+Bookings
+Bookings exist on system
+Book
+Book it
+Book the best hotel room
+Book the best hotel room right now!
+Exp. date
+Booking Summary
+Expensive
+Images
+agreement
+Average Price
+Average
+Balance
+Balance 0
+BalanceByMonth
+Availability calendar rates do not exist
+Availability calendar rates set
+Foreigner
+All rights reserved
+All Rights Reserved.
+All
+All Africa Apartments
+All Apartments
+All Australian Apartments
+All Asian Apartments
+All MiddleEast Apartments
+All Central American Apartments
+All European Apartments
+All hotels
+All hotels in one place
+All channels
+All channels
+All Latin American Apartments
+All preferred hotels
+All South American Apartments
+All North America Apartments
+All Logs
+Contributors needed
+Need help
+Expense by type
+Expenses
+Expenses
+in
+Loading
+Distance
+Hosted by
+Availability log entries
+Calendar log entries
+Enter your details
+Enter city here
+Enter keyword here
+Enter your password
+Enter your password
+Edit
+Edit listing
+Edit booking
+Bulk inventory edit
+Import
+Booking import active
+Booking import not active
+Currency
+Currency is missing
+Currency is set
+Currencies
+CARD HOLDER
+Check out time
+For investors
+for subscribers
+For foreigner
+Forgot Password
+Last month
+Last Month
+Last Week
+Last week
+Last 30 Days
+Last 7 Days
+Credits
+Earn money
+Close
+Completed tasks
+Completed
+Complete
+End date
+Count / Year
+Features
+Earn $15 cash reward
+Get free $25 travel credits
+One page sample url
+Per day
+Per day
+Enter your password. Min 10 characters long. Click on key to generate it
+One page website
+2 days before
+Prepay percent more than 7 days
+Prepay percent less than 7 days
+Airbnb listings
+Invalid cc email custom text
+Show CC
+Cron log entries
+Please enter cvv code
+Expedia import not active
+Expedia import active
+Expedia active
+Google log entries
+iCAL import
+iCAL import url
+iCal Matrix import not active
+iCAL Matrix import active
+iCAL export
+iCAL calendar export/import (AirBnb & other providers)
+iCAL export url
+iCAL Calendar export
+ICAL matrix
+ICAL  matrix
+Id
+JS errors
+MyAllocator Channel
+Safebox text
+Sms
+SMS
+Sms log entries
+SMS Templates
+Want to send SMS
+Log sms
+You can use our partners Stripe.com or Sumup.com to get payment directly after the booking. Please set Stripe or Sumup settings first
+Edit Stripe settings
+Edit Sumup settings
+XML Calendar
+Set XML quantity price
+XML Availability rates calendar
+I have an idea
+Show accounting
+Active hotels
+Update
+Upload
+Only 1 step and all Airbnb data will be accesible from Nobeds system
+Your email address
+Your listings
+We will import all your listings, bookings, calendar availability and rates automatically
+Your budget
+Your booking at
+This is your reservation confirmation at
+Your location
+Your country
+Your average price
+Your details
+Your details
+Your features
+Affiliate program
+Thank you
+Survey
+Complete the survey
+Survey questions
+Oldest hotels
+Only a few steps to make your life easier!
+Information
+Website
+Websites
+Error log entries
+Log errors
+Log entires do not exist
+Owner
+Overbookings
+Recommended for you
+Option
+Please enter your name
+Please enter your full name
+Try to change dates or contact
+Please enter card holder
+Please enter card details
+Pay with card
+Paid CC
+Invalid CC
+Please enter card number
+Set your custom emails
+Show calendar
+Log calendar
+Calendar settings
+Gallery URL
+Send cancelation email
+Show cancelled
+Show cancelled
+Show clean
+Show clean
+Quick actions
+Quick setup
+Quick logs
+Information about credit card
+Our dear customers said about us
+Please select nr. of guests
+Total sales by guest
+This listing is on people’s minds
+Who's coming
+Show competition
+Your booking paid at
+You must agree before submitting
+If you have any questions, please contact us
+If you have any questions concerning this invoice, use the following contact information
+Services
+Service
+service
+Services log entries
+Log services
+Sign to Account
+Sign In
+Signature text
+Sub type
+Support center
+Need support
+Sample
+Share
+Set single use rate
+Simple Calendar
+Soon
+Staff
+Status
+Statuses
+IncomeByStatus
+Total sales by Status
+All listings
+Smart
+Safebox
+Send safebox sms
+Send safebox email
+Security
+Show setup help
+Show set availability
+Show set rates & quantity
+Show set rates
+Self check-in
+Other
+Total other expenses
+Other info
+Title
+Type
+Set type
+Total income by Type
+ExpenseByType
+Total expenses by Type
+Session Timeout Notification
+Your session is about to expire
+TimeZone
+Timeline
+Tasks
+Task
+Disable tasks
+Show tasks
+Show tasks
+Dashboard
+Dashboard settings
+Credits - contributors wanted!
+Please select check out date
+Show checked-out
+Show checked-out
+Please select check in date
+Show checked-in
+Show checked-in
+Settings checklist
+Show charts
+Show channels
+Show channels
+IncomeByChannel
+Total sales by Channel
+Show tooltips
+Display settings
+Text2Reach
+Text2Reach settings
+Top channels
+Disable top channels
+Disable top rooms
+Top sources
+Top rooms
+Top countries
+Top cities
+Very good
+Powered by
+No show
+Note
+I found a bug
+Password
+Password
+Pasw updated
+Change password
+More video help
+Change view settings
+Sort
+Font size
+Privacy
+Show prepaid
+Show prepaid
+Preview
+Print proforma
+Send proforma
+Promotions
+Discount codes
+Show promotions
+To
+Page url
+bed
+Trip to
+Need help? Contact us
+Start help tour
+Help & tips
+Show help
+Home
+More recommendations
+Register as new host
+Show popup
+Hotels from A to Z
+Delete hotel
+Horror
+My tasks
+Map
+manager cleanliness overview by days
+Manager overview
+Multi Calendar
+Multi Booking Engine
+Email log entries
+Valid property email
+Please specify your email
+You can automate your emails. Please fill out all fields and system will do rest of job.
+Log emails
+Get email reminder
+Main coordinates
+Main info
+Messages
+Menu
+Need more
+More
+Please fill in all settings fields to get the best performance of app
+Most popular hotels
+User
+Username
+Good
+Good job
+Live Reviews
+Listings
+Listings info missing data
+Listings info need more data
+Listings page
+Listings coordinates
+Listing
+Listing changed, do you want to save & update availability
+Listings photos
+Please select your listing
+Reminder email custom text
+Review
+Reviews
+With review
+Review link
+Disable reviews
+Show reviews
+Show reviews
+Show reviews
+Show reviews
+Review overview
+Review count
+Rental
+Rentals page
+List of log entries
+Logs
+Logos
+Log out
+Log in
+Login
+Logins
+Login log entries
+Log logins
+Log entries
+Log off
+Delete logs
+Disable logs
+Show logs
+Logo
+Logo url
+Show logos
+Please select at least one listing
+Per person
+Per person
+Please complete all fields to get the best app results
+Main
+General missing data
+General need more data
+General filled
+Set General
+Scroll to the top
+Disable top countries
+World's
+World's All Apartments
+World's Best hotels
+World's All hotels
+World's Largest hotels
+World's Cheapest hotels
+World's Smallest hotels
+World's Worst hotels
+World's Most expensive hotels
+Show sorting
+Orders
+Orders without prepay
+Order id
+ORDER SUCCESSFULY CANCELLED, AVAILABILITY UPDATED
+Place order
+Request to Book
+List of orders
+Booking listings
+Delete bookings
+Show bookings
+Show booking
+Show bookings
+In booking price
+Set 0 to calculate from booking price
+Order info
+Person
+Rooms by occupancy
+Popular
+right now
+Get the best hotel room right now!
+Future bookings
+Disable today calendar
+"Show today calendar
+"
+Disable today bookings
+Show today debtors
+Show today departures
+Show today arrivals
+
+"Show today stayovers
+"
+Disable today stats
+Show today stats
+This month
+This month's orders
+This month invoices
+This month sales
+This month sales
+This month occupancy
+This week
+This week's reservations
+This week sales
+This week's orders
+This week occupancy
+More photos
+More destinations
+Agencies
+Subscribe
+Join us
+Join
+Subscribe and get all awesome features
+Subscription
+Subscribers
+Subscription not active
+Subscription active
+Only for subscribers
+Value
+Price
+Prices
+Price type
+Price & rooms
+Color by price
+Price comparison
+Set price
+Save
+Save
+Show pending
+Show pending
+Personal code
+private-room
+Preferred
+Total listings
+Show all listings
+General
+Total rooms
+shared bath
+Shared bathrooms
+Photos
+Photo
+Photo URL
+Pending
+Pending tasks
+Pending tasks do not exist
+Pending tasks exist
+List of pending tasks
+Pending accounting record do not exist
+Pending accounting records exist
+List of completed tasks
+processed orders
+Set closed on departure
+Reminder email day before arrival
+Set closed on arrival
+Restrictions
+Show restrictions
+Remove
+Last login
+Than last year
+Prepaid
+Prepay Text
+Prepay Fail text
+Prepay Success text
+Require prepay (1 active)
+Last month orders
+Last week reserved
+Last week orders
+Discount
+Use discount code
+Joins
+Set quantity price
+Single page
+Print
+Referral order id
+Referral source
+Reffer business, get 30%
+Referral program
+Referral program
+Two way - sync availability, rates & bookings
+Revenue
+Disable revenue chart
+Show revenue chart
+Take it
+Reviews not importing
+Reviews importing
+Old
+Total
+Total commisions
+Disable total orders
+Show total orders
+hotels in one place
+included
+not included
+Included
+Goods or services
+Goods, services or taxes
+Set your goods & taxes
+Edit good or service
+Problem with response
+Average short-term rental occupancy by quarter
+times in the past week
+Response
+Group bookings
+Please specify unique city
+Please select your country
+Average short-term rental occupancy by Country
+Real estate country Yields by Country
+Show map
+Sales
+List of income expense
+Sales map
+Total sales
+Show modified
+Show modified
+Log
+Sorry, no available listings found
+Short-term rental seasonality
+Show completed
+Show completed
+Tolerable
+Nr. of guests
+Check
+Subtotal
+Expand collapse
+Weekday
+WeekDay
+Full Year Calendar
+Stayovers
+There is no information about this location or city.
+Require CC (1 active)
+Our Clients
+Previous
+No manual steps needed
+Send approval
+Show approved
+Show approved
+Send approval (1 active)
+Please enter responsible person password
+Submit
+Os
+Payment
+Payment log entries
+Show paid cc
+Show paidcc
+Show paid
+Show paid
+Invoice email directly after payment
+Payment Info
+Payment order no
+Paid
+Paid 0
+Log payments
+Quantity
+Qnt
+Set quantity or price
+Zero quantity
+Set quantity
+Rates
+Included in rate
+Set rate
+New password
+New review
+Get new prices
+Please select new dates to check availability
+New
+New entry
+New order
+New task 
+New task
+Complete tasks do not exist
+Complete accounting record do not exist
+Show new
+New booking
+Sign Up
+Show new
+New accounting
+Log entries exist
+Complete tasks exist
+Complete accounting records exist
+Listings exist
+Please choose dates, guests to make a booking
+City prices overview by days
+Stars
+Star rating
+Yesterday
+Yesterday's bookings
+Yesterday created
+Time
+Timestamp
+ReviewByWeekday
+Updated
+Modified
+Most popular destinations
+Most expensive
+Most expensive hotels
+Minimum days stay
+Min. stay
+Set minimum stay
+Oldest
+Max. guests
+Max. price
+Smallest hotels
+Smallest
+Min. price
+Worst
+Worst hotels
+Latest Tasks
+Latest logs
+Month
+Monthly
+IncomeByMonth
+ReviewByMonth
+Total revenue by Month
+Total sales by Month
+Month revenue
+Please enter expire date
+Paid email custom text
+Send paid email
+Not completed
+Not completed orders
+Show incomplete
+Show incomplete
+Not paid
+Outstanding balance
+Today in
+Today
+Today Stats
+Today's Check-outs
+Today Check-out
+Today's Check-ins
+Today Check-in
+Today's bookings
+Today bookings
+List of today occupied
+Today occupied
+Today stayovers
+Today's available
+Today available
+Future Orders
+Future orders exist on system
+Future orders do not exist
+Today created
+Show today created
+Show no show
+Show no show
+Search
+Search bar
+Searching
+overview
+Show features
+Next
+Next Step
+Ohh No
+Show balance
+Your full name
+Sumup payment gateway is not active
+Sumup payment gateway active
+Nights
+per night
+Per night
+night in
+Stay
+Cleanliness overview
+No availability
+Price per stay
+Show invalid cc
+Show invalid cc
+Join free hotel management system
+Referrals
+Referral
+One way - only availability or bookings
+Property
+Property ID
+Properties found
+No properties found
+Please select type of your property
+Please enter your property description and business information. If you have a website please specify
+Property email
+You need to select one of the property
+You need to select one of the property
+Property address
+Property name
+Please enter your property name
+Property country
+Property coordinates
+Property info
+Property description
+Property city
+Property telephone nr.
+Generate
+different devices
+different locations
+Invoice date
+Registration form
+Unsubscribe
+This is your direct booking calendar link
+This is your direct booking form link
+Latest city prices
+Short-term low price HeatMap
+How did you hear about us
+Total without Taxes
+VAT
+Taxes
+Tax
+TAX
+Tax name
+Occupancy
+Ocupancy and sales
+Rooms available
+Please set your availability
+Set availability & rates
+Please select dates to see availability
+Log availability
+Set availability
+Disable compatitors
+Managers
+Manager id
+IncomeByManager
+ReviewByManager
+Superb
+Longitude
+Stats
+Show stats
+Total income
+Total Orders
+Total rentals income
+Latitude
+Tomorrow
+Tomorrow's check-outs
+Tomorrow Check-out
+Tomorrow's Check-ins
+Tomorrow Check-in
+Tomorrow's bookings
+Tomorrow's available
+Next month
+Next month orders
+Next week
+Next week reserved
+Next week orders
+Show autorate
+Direct Booking Engine
+Direct Booking Calendar
+Direct Booking form
+Show
+Showing
+Terms & conditions
+Terms and conditions
+You need to accept term & conditions
+Click here to indicate that you have read and agree to the terms presented in the
+You must accept the Terms and conditions agreement
+Resolution
+Change language
+Settings
+Set
+View settings
+Show settings
+Score
+Try
+Detailed sales by Channel
+Start exploring
+Send invalid cc email if charge was unsuccessfull
+Invoice email custom text
+Print invoice
+Send invoice
+Set invoice info
+Invoice no
+Responsible 
+Total cost
+rent
+Question
+Show add booking
+Show add booking
+Notification
+Sync
+Log sync
+Matrix active
+Weekly
+Disable week stats
+Show week stats
+Week Stats
+ReviewByWeek
+Total sales by Week
+Select
+Room
+Rooms
+Rooms or properties
+Room id
+Room title
+Show rooms
+Set closed
+IncomeByRoom
+ReviewByRoom
+Total sales by Room
+Room name
+Room name
+No availability or Rates found, please set them First!
+Set inventory
+Postal code
+City price overview
+Disable city overview
+"Show city stats
+"
+Please specify your City
+Average short-term rental prices by City
+Average short-term rental occupancy by City
+Start date
+Developing
+It’s been viewed
+Phone
+Telephone
+Your phone number
+Please enter your telephone number
+Please enter your phone number
+Invoice
+Invoice Prefix
+Invoice Text
+Invoice info need more data
+Invoice info missing data
+Invoice footer
+Send invoice (1 active)
+Invoice Info
+Invoice info filled
+Invoice No
+Invoice Currency
+Invoicing
+Advanced
+Advanced menus
+April
+August
+December
+February
+Gallery
+Import from Airbnb
+January
+July
+June
+March
+max. nights
+May
+min. nights
+Not available
+November
+October
+OnePage booking engine
+Problematic
+September
+Show debtors
+Show paid bank
+Show problematic
+Similar items
+Similar places
+Terms
+You may also like
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Open
+Weekends
+Weekdays
+Closed
+Disable
+Day
+Days
+Hour
+Hours
+leading
+Debtors
+TimeTable
+Credits
+Last week
+Balance not 0
+Paid bank
